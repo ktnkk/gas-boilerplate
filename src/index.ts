@@ -21,5 +21,5 @@ const getPrime = (num: number) => {
 };
 
 global.exec = () => {
-  getPrime(100);
+  getPrime(10);
 };

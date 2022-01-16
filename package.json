@@ -53,7 +53,7 @@
   },
   "scripts": {
     "build": "webpack",
-    "push": "build && clasp push",
+    "push": "webpack && clasp push",
     "fmt": "prettier --write \"**/*.{js,ts,json,yml,md}\"",
     "lint:es": "eslint .",
     "lint:txt": "textlint \"**/*.md\" && textlint --cache \"**/*.md\"",
