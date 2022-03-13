@@ -4312,13 +4312,13 @@ gas-entry-generator@2.1.0:
     esprima "4.0.1"
     estraverse "5.2.0"
 
-gas-webpack-plugin@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/gas-webpack-plugin/-/gas-webpack-plugin-2.1.0.tgz#ce4a818a6e53cf2ed2703b722b6fb61299fb36a2"
-  integrity sha512-gTPDjqJHnviiv2vJu1hpNKln6CyEjnPjphC40S6XvSPkcmrHQl2kcPQHevWirAmCcEoF6FDFNhmUQToqVcimBw==
+gas-webpack-plugin@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/gas-webpack-plugin/-/gas-webpack-plugin-2.2.0.tgz#9bf859cae42bd67defdeff0a3ec1bd6c84875877"
+  integrity sha512-1Z1yHhsyv+QxuLvwLhDVQCea55HphqL6nCECOuydsAw7xp/Qv+GlJZltPoioUW3siyqtdykMasOtybrJd/+nWw==
   dependencies:
     gas-entry-generator "2.1.0"
-    minimatch "^3.0.4"
+    minimatch "^5.0.0"
     webpack-sources "^3.1.1"
 
 gauge@^4.0.0:
@@ -7003,7 +7003,7 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@^5.0.1:
+minimatch@^5.0.0, minimatch@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.0.1.tgz#fb9022f7528125187c92bd9e9b6366be1cf3415b"
   integrity sha512-nLDxIFRyhDblz3qMuq+SoRZED4+miJ/G+tdDrjkkkRnjAsBexeGpgjLEQ0blJy7rHhR2b93rhQY4SvyWu9v03g==
