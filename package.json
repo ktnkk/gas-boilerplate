@@ -21,7 +21,7 @@
   "main": "n/a",
   "dependencies": {},
   "devDependencies": {
-    "@commitlint/cli": "^17.0.1",
+    "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
     "@google/clasp": "^2.4.1",
     "@types/google-apps-script": "^1.0.47",
