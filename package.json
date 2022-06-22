@@ -36,7 +36,7 @@
     "gas-webpack-plugin": "^2.3.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.2",
-    "markdownlint": "^0.25.0",
+    "markdownlint": "^0.26.0",
     "markdownlint-cli": "^0.31.1",
     "prettier": "^2.7.1",
     "semantic-release": "^19.0.3",
