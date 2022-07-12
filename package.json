@@ -26,7 +26,7 @@
     "@google/clasp": "^2.4.1",
     "@types/google-apps-script": "^1.0.51",
     "@typescript-eslint/eslint-plugin": "^5.30.5",
-    "@typescript-eslint/parser": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.6",
     "commitizen": "^4.2.4",
     "copy-webpack-plugin": "^11.0.0",
     "cz-conventional-changelog": "^3.3.0",
